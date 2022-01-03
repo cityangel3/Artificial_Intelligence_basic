@@ -6,18 +6,18 @@ Do not take it as hw please.
 project1
 -
 * Uninformed Search
-+ BFS
+  + BFS
 * Informed Search
-+ A-star Algorithm
-+ User Heuristic Function  
+  + A-star Algorithm
+  + User Heuristic Function  
 
 project2
 -
 * Pacman
-+ using Adversarial Search
-- Minimax Agent
-- AlphaBeta Pruning Agent
-- Expectimax Agent  
+  + using Adversarial Search
+    - Minimax Agent
+    - AlphaBeta Pruning Agent
+    - Expectimax Agent  
 
 project3
 -
@@ -26,4 +26,4 @@ project3
 project4
 -
 * Deep Learning
-+ MLP model & CNN model 
+  + MLP model & CNN model 
