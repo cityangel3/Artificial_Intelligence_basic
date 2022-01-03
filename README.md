@@ -1,6 +1,6 @@
 Artificial Intelligence Basic
 =
-This project's are my coursework for Basic AI(cse4185-01).  
+These project's are my coursework for Basic AI(cse4185-01).  
 Do not take it as hw please.
 
 project1
