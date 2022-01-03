@@ -9,17 +9,20 @@ project1
 + BFS
 * Informed Search
 + A-star Algorithm
-+ User Heuristic Function
++ User Heuristic Function  
+
 project2
 -
 * Pacman
 + using Adversarial Search
 - Minimax Agent
 - AlphaBeta Pruning Agent
-- Expectimax Agent
+- Expectimax Agent  
+
 project3
 -
-* Propositional Logic & First Order Logic
+* Propositional Logic & First Order Logic  
+
 project4
 -
 * Deep Learning
